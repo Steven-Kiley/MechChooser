@@ -1,44 +1,9 @@
 package microserver;
-/*--------------------------------------------------------
-
-1. Steven Kiley / Date: 5/1/2015
-
-2. Built using Java 8.
-
-3. Compile using the following command line.
-
-> javac MyWebServer.java
-
-
-4. Do the following to run this program:
-
-      After following previous compilation step, in a shell window:
-
-> java MyWebServer
-
-      To connect, open Mozilla Firefox web-browser and enter the following in the URL bar:
-
-localhost:2540
-
-      Use hotlinked text to navigate through available files and file structure.
-      To utilize addnums feature, enter the following in the URL bar:
-      
-localhost:2540/addnums
-
-      Enter valid information into form fields on resulting page and click "Submit Numbers" to activate server side processing.
-
-      NOTE: If server is running on separate machine, entering that machines IP address in place of "localhost" will be necessary.
-
-5. List of files needed for running the program.
-
-a. MyWebServer.java
-b. Valid installation of Mozilla Firefox.
-
-6. Notes: 
-
-Does not contain parent directory as part of the folder navigation, navigating back up from subfolders requires using the back button.
-
-----------------------------------------------------------*/
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
 import java.io.*; // Get the Input Output libraries
 import java.net.*; // Get the Java networking libraries
 import java.util.ArrayList;

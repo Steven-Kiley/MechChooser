@@ -1,5 +1,11 @@
 package mechdata;
 
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
+
 public class ChoiceData {
 	int[] faction;
 	int[] weightClass;

@@ -8,6 +8,12 @@ import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Set;
 
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
+
 public class MechContainer implements Serializable{
 	private static final long serialVersionUID = -6215869551534123183L;
 	HashMap<Integer, Mech> mechs;

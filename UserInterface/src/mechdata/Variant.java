@@ -2,6 +2,12 @@ package mechdata;
 
 import java.io.Serializable;
 
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
+
  public class Variant implements Serializable{
 	private static final long serialVersionUID = 1L;
 	private String varName;

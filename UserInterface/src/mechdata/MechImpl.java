@@ -3,6 +3,12 @@ package mechdata;
 import java.io.Serializable;
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
+
 class MechImpl implements Mech, Serializable{
 	private static final long serialVersionUID = -7851808017652121852L;
 	private int faction;

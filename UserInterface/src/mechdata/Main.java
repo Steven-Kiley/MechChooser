@@ -4,14 +4,17 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URISyntaxException;
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.Set;
 import serializer.Serializer;
 import serializer.Unserializer;
 import initializer.OpenHTML;
 import javax.sound.sampled.LineUnavailableException;
 import userinterface.UserInterface;
+
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
 
 public class Main {
 

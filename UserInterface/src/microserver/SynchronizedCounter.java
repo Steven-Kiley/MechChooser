@@ -1,5 +1,11 @@
 package microserver;
 
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
+
 class SynchronizedCounter {
 	private int count;
 	SynchronizedCounter(){

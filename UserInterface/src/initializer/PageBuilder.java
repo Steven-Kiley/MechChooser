@@ -5,6 +5,12 @@ import java.util.ArrayList;
 import mechdata.Mech;
 import mechdata.Variant;
 
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
+
 public class PageBuilder {
 	public static void buildPage(PrintStream output, ArrayList<Mech> isMechs, ArrayList<Mech> clanMechs, String wc){
 		String returnMe = getHTMLStart(wc) + buildBody(isMechs, clanMechs, wc) + getFooter();

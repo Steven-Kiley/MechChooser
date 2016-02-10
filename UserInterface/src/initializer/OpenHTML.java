@@ -4,6 +4,11 @@ import java.awt.Desktop;
 import java.io.File;
 import java.io.IOException;
 
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
 
 public class OpenHTML {
 	public static void openPage(String url) throws IOException{

@@ -1,5 +1,11 @@
 package sounds;
 
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
+
 import java.io.*;
 import javax.sound.sampled.*;
 

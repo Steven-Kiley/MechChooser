@@ -2,6 +2,12 @@ package mechdata;
 
 import java.util.Random;
 
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
+
 public class MechChooser {
 	
 	public static Integer chooseRandomMech(ChoiceData cd){

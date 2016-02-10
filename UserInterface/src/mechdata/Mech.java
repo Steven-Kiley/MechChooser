@@ -2,6 +2,12 @@ package mechdata;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
+
 public interface Mech {
 	public void addVariant(String var);
 	

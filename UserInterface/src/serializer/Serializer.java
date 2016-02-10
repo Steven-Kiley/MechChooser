@@ -1,5 +1,11 @@
 package serializer;
 
+/**
+ * 
+ * @author Steven Kiley
+ *
+ */
+
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
 
